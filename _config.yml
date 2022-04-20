@@ -32,36 +32,32 @@ email_address: feedback@nimbledog.net
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: Designed with Teachers in Mind
-    description: LibraryPro helps teachers manage their personal classroom libraries.
+    description: LibraryPro helps teachers manage books they use to supplement classroom learning.
     fontawesome_icon_name: magic
 
   - title: Adding Books is Quick and Easy
     description: Simply scan the book cover's ISBN barcode or search for the book by title or author.  The book's details (including cover image) are then automatically imported.
     fontawesome_icon_name: link
 
-  - title: Track Book Lending
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
-
   - title: Assign Book Locations
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description: Configure multiple locations for where books live - locations in your classroom, at home, other teacher's rooms, or even your school library!
     fontawesome_icon_name: sync
 
-  - title: Manage Multiple Copies
-    description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: adjust
-
   - title: Apply Custom Tags
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description: Categorize books using custom tags.
     fontawesome_icon_name: star
 
-  - title: Simple, Powerful Searching and Filtering
-    description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: arrow-alt-circle-down
+  - title: Track Book Lending
+    description: Quickly mark a book as lent to a particular borrower.  Check what books a borrower currently has borrowed, and for how long.
+    fontawesome_icon_name: play-circle
 
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
+  - title: Manage Multiple Copies
+    description: A book can have multiple addition copies.  Each copy can have it's own location and lending status.
+    fontawesome_icon_name: adjust
+
+  - title: Simple, Powerful Searching and Filtering
+    description: You can search the library by title, author, location, or tag.  And, you can filter the library by location, tag, and lending status.
+    fontawesome_icon_name: arrow-alt-circle-down
 
   - title: # New Feature Title
     description: # New Feature Description
