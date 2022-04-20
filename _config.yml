@@ -36,7 +36,7 @@ features:
     fontawesome_icon_name: magic
 
   - title: Adding Books is Quick and Easy
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description: Simply scan the book cover's ISBN barcode or search for the book by title or author.  The book's details (including cover image) are then automatically imported.
     fontawesome_icon_name: link
 
   - title: Track Book Lending
