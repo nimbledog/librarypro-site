@@ -33,7 +33,7 @@ email_address: feedback@nimbledog.net
 features:
   - title: Designed with Teachers in Mind
     description: LibraryPro helps teachers manage books they use to supplement classroom learning.
-    fontawesome_icon_name: school
+    fontawesome_icon_name: chalkboard-teacher
 
   - title: Adding Books is Quick and Easy
     description: Simply scan the book cover's ISBN barcode or search for the book by title or author.  The book's details (including cover image) are then automatically imported.
