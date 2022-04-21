@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**
-April 19 2022
+April 20 2022
 
 # Privacy Policy and Terms
 

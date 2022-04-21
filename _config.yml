@@ -33,31 +33,31 @@ email_address: feedback@nimbledog.net
 features:
   - title: Designed with Teachers in Mind
     description: LibraryPro helps teachers manage books they use to supplement classroom learning.
-    fontawesome_icon_name: magic
+    fontawesome_icon_name: book-sparkles
 
   - title: Adding Books is Quick and Easy
     description: Simply scan the book cover's ISBN barcode or search for the book by title or author.  The book's details (including cover image) are then automatically imported.
-    fontawesome_icon_name: link
+    fontawesome_icon_name: circle-plus
 
   - title: Assign Book Locations
     description: Configure multiple locations for where books live - locations in your classroom, at home, other teacher's rooms, or even your school library!
-    fontawesome_icon_name: sync
+    fontawesome_icon_name: location-arrow
 
   - title: Apply Custom Tags
     description: Categorize books using custom tags.
-    fontawesome_icon_name: star
+    fontawesome_icon_name: tag
 
   - title: Track Book Lending
     description: Quickly mark a book as lent to a particular borrower.  Check what books a borrower currently has borrowed, and for how long.
-    fontawesome_icon_name: play-circle
+    fontawesome_icon_name: user
 
   - title: Manage Multiple Copies
     description: A book can have multiple addition copies.  Each copy can have it's own location and lending status.
-    fontawesome_icon_name: adjust
+    fontawesome_icon_name: book-copy
 
   - title: Simple, Powerful Searching and Filtering
     description: You can search the library by title, author, location, or tag.  And, you can filter the library by location, tag, and lending status.
-    fontawesome_icon_name: arrow-alt-circle-down
+    fontawesome_icon_name: magnifying-glass
 
   - title: # New Feature Title
     description: # New Feature Description
