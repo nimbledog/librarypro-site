@@ -37,7 +37,7 @@ features:
 
   - title: Adding Books is Quick and Easy
     description: Simply scan the book cover's ISBN barcode or search for the book by title or author.  The book's details (including cover image) are then automatically imported.
-    fontawesome_icon_name: book-open
+    fontawesome_icon_name: plus
 
   - title: Assign Book Locations
     description: Configure multiple locations for where books live - locations in your classroom, at home, other teacher's rooms, or even your school library!
